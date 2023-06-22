@@ -1,0 +1,11 @@
+p {
+	color: Fuchsia;
+	background: black;
+	font-weight: bold;
+	text-align: center;
+	font-size: xx-large;
+}
+
+h1 {
+	text-shadow: 3px 3px 8px #0000FF
+}
